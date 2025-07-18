@@ -78,6 +78,7 @@ pre, tt {
 
 a, a > tt {
 	color: #224b8d; /*	链接颜色*/
+	/*color: #1556bf;*/
 	text-decoration: none;
 }
 
